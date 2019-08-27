@@ -5,7 +5,7 @@
   "author": "Víctor González <victor.gonzalez@geomati.co>",
   "dependencies": {
     "@geoladris/core": "dev",
-    "moment": "2.5.1",
+    "moment": "2.19.3",
     "nouislider": "9.2.0",
     "pikaday": "1.5.1",
     "popper.js": "^1.9.9",
